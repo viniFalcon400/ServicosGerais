@@ -1,6 +1,7 @@
 # ServicosGerais
 
 #--spring-boot-starter-actuator
+
 Mostra se os serviços então no ar.
 *URL: http://localhost:8080/actuator/health
 
